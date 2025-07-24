@@ -10,7 +10,7 @@ The Maze Solver project includes the following features:
 
 ### 1. Maze Input and Generation
 - **Manual Input:** Users can specify maze grids (`0` for paths, `1` for walls).
-- **Random Maze Generation:** Generates mazes with at least one guaranteed solvable path.
+- **Random Maze Generation:** Generates mazes with at least one guaranteed solvable  path.
 
 ### 2. Pathfinding Algorithms
 - **Breadth-First Search (BFS):** Explores all possible routes from start to end.
